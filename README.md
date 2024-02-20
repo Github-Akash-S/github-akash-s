@@ -14,4 +14,3 @@ Happy Coding! 😊</p>
 
 <h3 align="center">A passionate programmer who tries every content available in internet.</h3>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
