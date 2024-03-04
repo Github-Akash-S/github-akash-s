@@ -16,7 +16,7 @@ Happy Coding! 😊</p>
 
 <details>
 <summary>Familiar with</summary>
-  message
+  Tools
   <div align="center">
 	<table>
 		<tr>
