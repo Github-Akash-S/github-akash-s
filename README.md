@@ -345,4 +345,4 @@ _All product names, logos, and brandsare property of their respective owners. Al
 
 --------------------------------------------------------------------
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Github-Akash-S/github-akash-s/blob/output/github-contribution-grid-snake.svg)
