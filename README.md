@@ -62,4 +62,4 @@ Happy Coding! 😊</p>
 </details>
 
 ------------------------------------------------------------------------------------------------
-![Snake animation](https://github.com/Github-Akash-S/github-akash-s/blob/output/github-contribution-grid-snake.svg)
+
